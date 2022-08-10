@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\EndScreen",
+    "\\src\\components\\Game",
+    "\\src\\components\\Keyboard",
+    "\\src\\utils"
+  ],
+  "SelectedNode": "\\src\\words.js",
+  "PreviewInSolutionExplorer": false
+}
